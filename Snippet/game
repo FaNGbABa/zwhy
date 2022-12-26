@@ -1,0 +1,7 @@
+payload:
+  # Games
+  # 部落冲突
+  - DOMAIN-SUFFIX,clashofclans.com
+
+  # 荒野乱斗
+  - DOMAIN-SUFFIX,brawlstarsgame.com
