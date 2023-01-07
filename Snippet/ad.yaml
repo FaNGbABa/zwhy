@@ -28,3 +28,12 @@ payload:
   - DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
   - DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+  
+  # Google CN
+  - DOMAIN-SUFFIX,google.cn
+  
+  # Netease Music Advertising
+  - DOMAIN,admusicpic.music.126.net
+  - DOMAIN,iadmat.nosdn.127.net
+  - DOMAIN,iadmusicmat.music.126.net
+  - DOMAIN,iadmusicmatvideo.music.126.net
