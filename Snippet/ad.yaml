@@ -37,3 +37,7 @@ payload:
   - DOMAIN,iadmat.nosdn.127.net
   - DOMAIN,iadmusicmat.music.126.net
   - DOMAIN,iadmusicmatvideo.music.126.net
+
+  # 网易邮箱大师
+  - DOMAIN-SUFFIX,tdid.m.qq.com
+  - DOMAIN-SUFFIX,nex.163.com
