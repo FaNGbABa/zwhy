@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
   - DOMAIN-SUFFIX,hubciddata.sandai.net
   - DOMAIN-KEYWORD,mypikpak
+  - PROCESS-NAME,com.pikcloud.pikpak
