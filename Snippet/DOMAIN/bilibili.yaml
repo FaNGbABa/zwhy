@@ -1,0 +1,3 @@
+payload:
+  - '+.api.bilibili.com'
+  - '+.grpc.biliapi.net'
